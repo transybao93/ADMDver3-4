@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{263f66f0-e12f-11e5-be7a-9b070e30680c}"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "{263f66f0-e12f-11e5-be7a-9b070e30680c}"
+        }
+    },
+    "dependent_plugins": {}
+}
